@@ -5,6 +5,8 @@ include "header.php";
  
 ?>
 
+
+
 <style>
 
 .row-checkout {
@@ -14,6 +16,7 @@ include "header.php";
   flex-wrap: wrap;
   margin: 0 -16px;
 }
+
 
 .col-25 {
   -ms-flex: 25%; /* IE10 */
